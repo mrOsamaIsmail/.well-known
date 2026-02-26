@@ -1,5 +1,11 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.vodafone.hyperrealitycube",
-               "sha256_cert_fingerprints": ["BE:B4:EC:76:E2:2E:1E:11:72:EA:3E:10:F6:D2:F8:81:5C:93:2B:02:F3:24:67:74:8A:C2:85:22:66:FF:C3:E9"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vodafone.hyperrealitycube",
+    "sha256_cert_fingerprints": [
+      "37:A4:6E:D1:00:32:50:34:46:39:1E:91:9E:4E:97:E8:CF:0B:EF:92:3D:E2:66:2F:94:AF:D9:E2:0B:DF:FD:F8",
+      "BE:B4:EC:76:E2:2E:1E:11:72:EA:3E:10:F6:D2:F8:81:5C:93:2B:02:F3:24:67:74:8A:C2:85:22:66:FF:C3:E9"
+    ]
+  }
 }]

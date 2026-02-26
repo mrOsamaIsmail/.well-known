@@ -18,7 +18,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "uninitialized.application.id",
+      "package_name": "com.vodafone.hyperrealitycube",
       "sha256_cert_fingerprints": [
         "3B:02:BF:51:96:E1:A7:54:B5:BC:55:5A:87:F5:61:CC:B1:92:93:43:CB:FC:4E:3B:1D:3C:50:04:D0:AA:4D:5A",
         "BE:B4:EC:76:E2:2E:1E:11:72:EA:3E:10:F6:D2:F8:81:5C:93:2B:02:F3:24:67:74:8A:C2:85:22:66:FF:C3:E9"
